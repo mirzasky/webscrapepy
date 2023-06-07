@@ -1,0 +1,315 @@
+
+
+
+
+ 
+
+
+
+
+13 Kecerdasan Buatan yang Kita Gunakan Sehari-hari | BINUS UNIVERSITY BANDUNG - Kampus Teknologi Kreatif
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+ 
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+  
+
+Home
+Career
+Contact Us
+Brochure Collection
+
+
+
+
+
+About UsBINUS @Bandung
+Supporting UnitCampus Director’s Office and Quality Assurance (DOQA)
+Academic & Lecturer Resources Center (ALRC)
+Student and Lecturer Services Center (SLSC)
+Library and Knowledge Center (LKC)
+Student Advisory Development Center (SADC)
+Research and Community Development Center (RCD)
+IT Operation
+Building Management (BM)
+Global Employability and Alumni (GEA)
+BINUS Incubator
+
+
+ProgramsRegular ProgramS1 Computer Science
+S1 Visual Communication Design
+S1 Interior Design
+S1 Creativepreneurship
+(S1+S1) Digital Business Innovation
+(S1 + S1) Interactive Design & Technology
+
+2+1+1 PROGRAM
+
+Scholarship
+BINUSIAN Community
+Facilities
+AdmissionAdmission Calendar
+Admission Procedure
+Entry Requirements
+Tuition Fee
+
+
+
+
+
+
+ 
+
+
+Home
+
+
+  Article
+  
+
+  13 Kecerdasan Buatan yang Kita Gunakan Sehari-hari
+  
+
+
+
+
+
+
+
+
+13 Kecerdasan Buatan yang Kita Gunakan Sehari-hari
+
+ 
+
+
+Article
+
+
+
+
+Kecerdasan Buatan yang Kita Gunakan Sehari-hari
+Perkembangan teknologi yang kian maju salah satunya dibuktikan dari semakin meluasnya penggunaan AI atau Artificial Intelligence atau kecerdasan buatan dalam kehidupan sehari-hari. Saat ini, kecerdasan buatan yang kita gunakan sehari-hari saking banyaknya terkadang orang pun tak sadar akan hal tersebut. AI ini telah menyebar ke berbagai bidang mulai dari otomotif, bisnis, hiburan, pendidikan bahkan kesehatan. 
+Namun, kira-kira jika ditanyakan apa saja contoh AI yang kita gunakan sehari-hari, bisakah Anda menjawabnya? Nah, di sini akan kita bahas tentang hal ini lebih jauh. 
+Contoh Kecerdasan Buatan yang Kita Gunakan Sehari-Hari
+Kecerdasan buatan dari waktu ke waktu terus mendapat perhatian dunia. Dalam praktiknya, kecerdasan buatan dibedakan menjadi dua, yakni AI lemah dan AI kuat. AI lemah atau weak AI dirancang guna melakukan tugas tertentu sesuai dengan yang diprogramkan. Sedang AI kuat atau Strong AI dirancang dengan sistem yang sifatnya kognitif layaknya manusia. 
+Artinya, strong AI mampu menciptakan sebuah solusi dari sebuah masalah tanpa peran dari manusia. Dalam artian lain, Strong AI belajar layaknya manusia. Jadi, semakin banyak hal yang mereka dapat, maka semakin pintarlah mereka. Untuk tujuan dari keduanya tentu saja sama, yakni agar memudahkan dan mengefisienkan pekerjaan manusia. 
+Nah, dari ulasan di atas apakah Anda kian penasaran apa saja kecerdasan buatan yang digunakan dalam kehidupan sehari-hari? Berikut ulasannya: 
+
+Asisten virtual
+Jika kita mendengar nama “asisten virtual” mungkin yang pertama kali dibayangkan adalah robot mekanik yang mampu bergerak dan berpikir layaknya manusia. Namun, nyatanya asisten virtual ini merupakan “robot” yang banyak ditemukan dalam perangkat lunak atau fitur dalam gadget. 
+Apakah Anda pernah tiba-tiba diingatkan oleh Google Maps untuk berangkat ke kantor pada jam 9 pagi? Atau mungkin Google Maps bisa tahu di mana rumahmu meski Anda tak pernah memasukkan data alamat rumah atau kantor. 
+Nah, hal ini disebut sebagai salah satu keahlian dari asisten virtual. Jadi, kecerdasan buatan yang disematkan dalam asisten virtual ini akan mempelajari rutinitas harian mu sehingga dia akan mencoba untuk memberi sugesti kepadamu terkait dengan aktivitas yang biasa dilakukan. 
+Misalnya saja ketika Anda mengajukan sebuah pertanyaan, “Apakah hari ini saya ada jadwal?”. Asisten virtual akan langsung menjawab lewat pesan suara real time selayaknya Anda memiliki asisten pribadi. Intinya, teknologi ini mampu mendeteksi suara Anda dan langsung mengumpulkan informasi dari apa saja yang terekam dalam gawai Anda, lantas mengungkapkannya lewat pesan suara kembali. 
+Contoh asisten virtual adalah Siri (iPhone), Bixby (Samsung), dan OK Google (untuk ponsel Google). Menarik bukan? 
+GPS Navigation
+Teknologi satu ini sangat membantu di era sekarang ini. Teknologi yang ditanamkan dalam GPS sendiri cukup rumit karena prosesnya yang menggunakan big data. GPS di sini tak hanya mampu memprediksi jarak dan waktu, tetapi juga mampu mendeteksi seberapa macet jalanan yang hendak dilalui dengan berbagai simbol warna. Dari sini kemudian pengguna diberikan opsi rute tercepat agar terhindar dari kemacetan. 
+Menariknya lagi, GPS juga memiliki fitur tiga dimensi yang memungkinkan Anda untuk melihat view lokasi secara tiga dimensi hanya lewat layar gadget. 
+Filter Instagram
+Salah satu kecerdasan buatan yang kita gunakan dalam kehidupan sehari-hari adalah fitur filter dalam sosial media. Misalnya dalam TikTok atau Instagram Anda bisa dengan mudah menghilangkan jerawat atau membuat tampilan wajah yang lebih tirus dan bersih hanya dalam sekali pencet. Padahal, ketika kita menggunakan jasa penyunting video atau foto hal tersebut tentunya cukup lama dilakukan karena dikerjakan secara manual. 
+Nah, uniknya filter dalam media sosial tersebut mampu melakukannya secara real time. Inilah kecerdasan buatan. 
+ Keyboard virtual
+Salah satu kemampuan dari AI adalah “mereka belajar”. Misalnya dalam contoh kecerdasan buatan ini. Keyboard virtual biasanya dibekali dengan fitur autocorrect yang berfungsi mengoreksi salah ketik. 
+Namun, lambat laun fitur ini kian cerdas. Semakin banyak yang pernah kita ketik, maka semakin banyak pula mereka “belajar” sehingga tak jarang kita hanya mengetik satu huruf, lalu muncul beberapa prediksi kata yang sesuai dengan apa yang kita pikirkan.
+ Layanan hiburan seperti film, musik, dan aplikasi streaming lainnya
+Dalam fitur layanan baik musik, film dan lain sebagainya kita akan menemukan “rekomendasi konten” . Nah, rekomendasi konten ini tentunya berisikan konten yang kemungkinan Anda sukai. Lantas darimana mereka mendapatkannya? 
+Mereka mendapatkannya dari mempelajari pola serta jenis konten yang sering dibuka atau dilihat. Dari situlah kemudian mereka mendapatkan list rekomendasi yang relevan. Salah satu contoh dari kecerdasan buatan ini bisa ditemui dengan mudah di berbagai media sosial, misalnya YouTube. 
+Layanan konsumen virtual atau chatbot
+Ini juga merupakan contoh kecerdasan buatan yang kita gunakan sehari-hari. Chatbot sendiri dibekali kemampuan untuk mengenali frasa atau kata dan lantas memberikan jawaban yang paling sesuai berdasarkan triggernya. Chatbot banyak digunakan para pebisnis karena mampu menjadi solusi untuk pelayanan yang lebih cepat. Ya, sekarang banyak perusahaan daring yang mulai beralih ke layanan customer service menggunakan chatbot. Salah satu alasannya tentu saja tentang budget. 
+Menggunakan chatbot lebih menghemat budget karena tidak memerlukan karyawan khusus yang bertugas untuk pelayanan konsumen. Selain itu, layanan ini juga bisa bekerja 24 jam penuh. 
+Nah, menariknya, fitur kecerdasan buatan pada layanan ini juga mampu memahami bahasa serta mampu memilih diksi yang tepat untuk menjawab pertanyaan dari para calon pelanggan. 
+Melakukan pencarian di laman internet
+Mesin pencari atau terkenal dengan sebutan Search Engine adalah salah satu kecerdasan buatan yang kita gunakan sehari-hari. Kepintaran dari search engine ini sendiri juga terbantu dari kontribusi pengguna internet yang saling berbagi pengetahuan lewat berbagai artikel atau tulisan. 
+Kecerdasan buatan dalam mesin pencari terletak dalam sistem yang dibekali kemampuan untuk mempelajari kebiasaan penggunanya. Mereka dibekali dengan kemampuan untuk melakukan predictive search, yang mana ketika Anda memasukkan keyword, maka sistem secara otomatis akan merekomendasikan beberapa informasi yang relevan. Nah, hal ini tentu akan sangat memudahkan, bukan? 
+Adapun contoh dari search engine adalah Bing dan Google. 
+Media sosial
+Dari waktu ke waktu perkembangan media sosial selalu mengagumkan. Namun, perlu diketahui jika perkembangannya ini tentu tak lepas dari peran AI. Kecerdasan buatan di sini ditanamkan untuk memberikan rekomendasi feed dan teman. Selain itu, AI di media sosial juga mampu menyaring berita bohong dan berita lain sebagainya.
+Iklan produk
+Jika Anda pernah melihat iklan bertebaran di gawai Anda, artinya ada peran dari AI di situ. Mayoritas iklan sekarang memanfaatkan teknologi AI yang dibarengi dengan algoritma khusus untuk menganalisis produk yang pernah Anda beli atau ingin Anda beli berdasarkan dari pencarian sebelumnya. 
+Game online
+Contoh kecerdasan buatan yang kita gunakan sehari-hari juga bisa dilihat di game online. Teknologi AI dalam game online mampu memberikan pengalaman yang menantang bagi para gamer. Salah satu contohnya game NPC yang memiliki reaksi dinamis terhadap perlakuan dari player. Selain itu player-experience modeling juga digunakan untuk melakukan balancing secara dinamis berdasarkan dari skill si pemain tersebut. 
+M-Banking
+Salah satu kecerdasan buatan yang kita temukan dalam M-banking adalah peringatan ketika saldo berkurang atau peringatan ketika nasabah menggunakan kartu kredit untuk membeli sesuatu. AI di sini bertugas memberikan verifikasi terhadap setiap pembelian untuk mencegah penggunaan yang salah pada kartu kredit. 
+Translator
+Perlu diketahui jika sekarang translator pun juga dibekali dengan AI. Translator memiliki kemampuan voice record yang memungkinkan untuk menerjemahkan suara Anda dalam sesuai dengan bahasa yang dipilih. Tak hanya itu, beberapa aplikasi translator bahkan memiliki fitur kamera sehingga memudahkan Anda untuk mentranslate sebuah tulisan tanpa harus mengetiknya, cukup memotretnya dan hasil terjemahan akan segera tersedia. 
+Online Shop
+Pernahkah ketika Anda membuka marketplace, Anda langsung menentukan untuk memilih barang atau produk yang berada di beranda? Nah, ini adalah salah satu kemampuan dari AI. Kecerdasan buatan yang kita gunakan sehari-hari ini memang tak cukup kentara sehingga mungkin saja Anda tidak sadar. 
+Namun, perlu diingat jika sebuah marketplace misalnya, mereka memiliki ribuan bahkan jutaan barang, namun kenapa diantara jutaan tersebut mereka mampu memberikan sugesti yang cocok dengan yang Anda inginkan? 
+Nah, jawabannya tentu karena dalam sistem online shop selalu dibekali dengan kecerdasan buatan yang mampu merekomendasikan produk atau barang berdasarkan dari kata kunci atau produk yang pernah Anda lihat. Mereka merekamnya dengan baik dan menyajikannya dalam beranda Anda. 
+
+Nah, itulah beberapa contoh kecerdasan buatan yang kita gunakan sehari-hari. Dari ulasan di atas, apakah Anda tertarik untuk mempelajari lebih jauh tentang kecerdasan buatan? Jika iya, pilihlah kampus terbaik untuk mempelajarinya lebih dalam, salah satunya adalah BINUS @Bandung. Untuk pendaftaran kamu bisa klik link Pendaftaran BINUS @Bandung. 
+
+
+https://greatnusa.com/artikel/contoh-kecerdasan-buatan/
+https://www.dicoding.com/blog/contoh-kecerdasan-buatan/
+https://www.gokampus.com/blog/5-contoh-kecerdasan-buatan-yang-membantu-keseharian-kita?hideHeader=false
+https://qontak.com/blog/contoh-artificial-intelligence/
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Comments :
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Cancel Reply
+
+
+
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+Privacy Policy
+
+
+
+ Jl. Pasirkaliki No. 25-27, Paskal Hyper Square
+Bandung 40181. Jawa Barat, Indonesia
+ 
+
+ (+62 22) 2056 8888
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+ Copyright © BINUS Higher Education. All rights reserved
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 

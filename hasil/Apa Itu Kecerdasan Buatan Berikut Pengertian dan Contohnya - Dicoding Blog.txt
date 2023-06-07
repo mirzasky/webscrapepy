@@ -1,0 +1,533 @@
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+Apa Itu Kecerdasan Buatan? Berikut Pengertian dan Contohnya - Dicoding Blog
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belajar Pemrograman Gratis
+
+
+
+
+
+
+
+
+
+
+
+
+Blog
+
+
+
+
+
+
+Kategori 
+
+News
+Academy
+Challenge
+Event
+Tutorial
+
+
+ 
+
+
+
+
+ Menu
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belajar Pemrograman Gratis
+
+
+
+
+News
+Academy
+Challenge
+Event
+Tutorial
+Belajar Sekarang
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+News 
+Apa Itu Kecerdasan Buatan? Berikut Pengertian dan Contohnya
+
+
+ Dicoding Intern
+
+15 July 2020
+
+
+
+
+
+
+								Bagikan
+							
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sadarkah kamu bahwa teknologi kecerdasan buatan atau istilah kerennya AI (Artificial Intelligence) saat ini sudah banyak bertebaran dan diterapkan di berbagai bidang kehidupan. Bahkan AI bisa kamu jumpai dalam kehidupan sehari-hari, seperti asisten virtual Google dan Siri contohnya. Kecerdasan buatan memang bukan hal yang baru, namun perkembangannya selalu menjadi sesuatu yang menarik perhatian.
+Dalam perkembangan AI selain karena perannya sangat membantu manusia, juga didukung banyaknya kehadiran film fiksi ilmiah yang berkaitan dengan AI. Sehingga semakin menambah ketertarikan orang-orang terhadap AI. Perlu kamu ketahui juga, AI tidak selalu berupa asisten virtual seperti Jarvis pada film Iron Man atau selalu dalam bentuk robot. Namun AI lebih luas dari itu, AI bisa diterapkan dalam berbagai hal dengan menekankan pada kecerdasan mesin yang bisa memberikan respon layaknya manusia.
+
+“Kecerdasan kita adalah apa yang menjadikan kita manusia, dan AI adalah perpanjangan dari kualitas itu.” (Yann LeCun)
+
+Saat ini hampir semua perangkat komputer atau teknologi modern telah banyak menerapkan  kecerdasan buatan. Seperti yang diungkapkan sebelumnya AI bisa kamu rasakan saat menggunakan smartphone melalui asisten virtual Google  atau Siri. AI diprediksi akan terus berkembang dan lebih cerdas lagi dan kamu tidak dapat menghindarinya.
+
+💻 Mulai Belajar Pemrograman
+Belajar pemrograman di Dicoding Academy dan mulai perjalanan Anda sebagai developer profesional.
+Daftar Sekarang
+
+Mengenal Kecerdasan Buatan
+
+Kecerdasan buatan atau Artificial Intelligence (AI) adalah simulasi dari kecerdasan yang dimiliki oleh manusia yang dimodelkan di dalam mesin dan diprogram agar bisa berpikir seperti halnya manusia. Sedangkan menurut Mc Leod dan Schell,  kecerdasan buatan adalah aktivitas penyediaan mesin seperti komputer dengan kemampuan untuk menampilkan perilaku yang dianggap sama cerdasnya dengan jika kemampuan tersebut ditampilkan oleh manusia.
+Dengan kata lain AI merupakan sistem komputer yang bisa melakukan pekerjaan-pekerjaan yang umumnya memerlukan tenaga manusia atau kecerdasan manusia untuk menyelesaikan pekerjaan tersebut.
+AI sendiri merupakan teknologi yang memerlukan data untuk dijadikan pengetahuan, sama seperti manusia. AI membutuhkan pengalaman dan data supaya kecerdasannya bisa lebih baik lagi. Poin penting dalam proses AI adalah learning, reasoning dan self correction. AI perlu belajar untuk memperkaya pengetahuannya. Proses belajar AI pun tidak selalu disuruh oleh manusia, melainkan AI akan belajar dengan sendirinya berdasarkan pengalaman AI saat digunakan oleh manusia.
+Hal yang cukup menarik dari AI adalah ia mampu melakukan self correction atau mengoreksi diri sendiri. Jika kamu pernah mendengar ungkapan AI “Jika aku tidak pernah menang, maka setidaknya aku tidak boleh kalah” sedikit ngeri juga ya. AI memang diprogram untuk itu terus belajar dan membenahi diri sendiri dari kesalahan yang pernah dibuatnya.
+Jika kamu masih bingung dari cara kerja AI, mari kita ambil salah satu contoh yaitu AlphaGo. Saat awal dikembangkan ia diberi 100 ribu data pertandingan Go untuk dipelajari. Kemudian, AlphaGo akan bermain Go bersama dengan dirinya sendiri dan setiap dia kalah dia akan memperbaiki cara ia bermain dan proses bermain ini akan diulang sampai jutaan kali.
+Salah satu kelebihan AI dibanding manusia adalah AI yang dimiliki oleh AlphaGo tadi adalah manusia hanya dapat bermain satu kali dalam satu waktu. Sedangkan AI bisa mensimulasikan beberapa pertandingan pada satu waktu secara bersamaan. Sehingga proses belajar dan pengalamannya juga bisa lebih banyak dibanding manusia. Hal ini terbukti ketika AlphaGo bermain dengan juara dunia Go pada tahun 2016 ia bisa menjadi pemenangnya.
+
+Secara garis besar sebuah kecerdasan buatan dapat melakukan salah satu dari keempat faktor berikut.
+Acting humanly, sistem yang dapat bertindak layaknya manusia.
+Thinking humanly, sistem yang bisa berpikir seperti halnya manusia.
+Think rationally, sistem yang mampu berpikir secara rasional.
+Act rationally, sistem yang mampu bertindak secara rasional.
+Contoh Kecerdasan Buatan
+Kecerdasan buatan atau AI ini telah banyak diterapkan di berbagai bidang seperti industri, medis, pendidikan, bisnis bahkan dalam kehidupan sehari-hari. Berikut ini beberapa contoh dari penerapan AI yang biasa kamu jumpai dalam kehidupan sehari-hari.
+1. DeepFace Facebook
+
+Salah satu contoh dari AI adalah teknologi DeepFace yang dimiliki oleh Facebook. AI ini berfungsi untuk mengenali wajah orang yang ada pada postingan foto. Dengan teknologi ini, kamu tidak perlu lagi menandai seseorang yang ada pada foto secara manual, karena AI ini yang akan melakukannya.
+Mungkin kamu bertanya-tanya, dari mana AI itu mengetahui bahwa orang yang ada pada foto tersebut adalah kamu? Perlu kamu ketahui bahwa sebelum AI dapat mengidentifikasi bahwa orang di foto itu adalah kamu, AI akan dilatih berdasarkan data. Datanya didapatkan saat kamu menandai orang di foto sebelumnya dan dari hasil saran AI terhadap orang yang ada di foto yang kamu setujui. Setelah AI berlatih dan memiliki banyak data maka AI nantinya akan dapat mengidentifikasi seseorang yang ada di foto.
+2. Rekomendasi E-Commerce
+
+Konsep penerapan AI yang sering kamu jumpai salah satunya adalah rekomendasi produk pada e-commerce. Mungkin kamu pernah berbelanja di salah satu e-commerce dan ketika kamu berbelanja ada produk-produk yang direkomendasikan untukmu. Produk yang direkomendasikan tersebut bukan dari seseorang yang memprediksi kira-kira kamu beli apa ya? Produk rekomendasi tersebut merupakan hasil dari proses AI.
+Lalu darimana AI mendapatkan produk-produk yang akan direkomendasikan tersebut? AI memperoleh data dari kamu sendiri, misalnya ketika kamu melakukan pencarian produk, pembelian produk dan kamu sudah melihat produk apa saja. Data tersebutlah yang akan diproses dari konsep AI yaitu data mining sehingga AI akan merekomendasikan produk-produk yang pas buat kamu.
+3. Asisten Virtual
+
+Contoh dari kecerdasan buatan berikutnya adalah asisten virtual, ada banyak penyedia asisten virtual seperti Google assistant, Siri atau Alexa. Seperti asisten pada umumnya, asisten virtual ini juga bisa kamu ajak berinteraksi. Selain itu asisten virtual dapat mencatat kapan kamu ada janji atau acara dan memberikan informasi ketika waktu acara yang ditentukan segera tiba.
+Asisten virtual ini juga bisa kamu perintah untuk melakukan pengiriman pesan, memutar musik, membuka aplikasi dan lain sebagainya. Asisten virtual ini juga akan terus belajar seiring kamu menggunakannya, sehingga asisten virtual dapat mengetahui apa yang kamu sukai dan hal apa yang biasa kamu lakukan.
+Sebenarnya masih banyak lagi contoh penerapan dari AI, seperti fitur AI yang dimiliki oleh kamera pada smartphone yang bisa melakukan pengaturan kamera sesuai dengan kondisi saat itu. Atau AI dari mobil Tesla yang mampu berjalan tanpa adanya pengemudi.
+Kesimpulan
+Penerapan AI banyak mempengaruhi cara kita hidup, berinteraksi dan meningkatkan pengalaman dan kenyamanan kita. AI terus berkembang dan masih banyak AI yang akan datang di tahun-tahun mendatang. Tentunya AI yang lebih baik lagi dengan lebih banyak perbaikan, pengembangan, dan penerapannya.
+
+“Kecerdasan buatan memiliki hubungan yang sama dengan kecerdasan seperti halnya bunga buatan dengan bunga” (David Parnas)
+
+Kecerdasan buatan tidak selalu dikonotasikan negatif yang akan menggantikan peran manusia. Walaupun ada beberapa pekerjaan yang bisa saja digantikan oleh AI, namun AI juga membawa pekerjaan atau profesi baru seperti data scientist misalnya. 
+Satu hal yang penting, kamu jangan terlalu berpikiran negatif terhadap kemampuan yang dimiliki AI. Melainkan kamu seharusnya khawatir terhadap ketidakmampuan AI sekarang. Mungkin kamu tidak bisa belajar banyak sekaligus dalam satu waktu seperti halnya AI, namun kamu mampu bekerja sama dengan AI. Mungkin saja ada sesuatu hal yang manusia perlu membutuhkan waktu ratusan tahun untuk menemukannya, sedangkan dengan adanya kerjasama antara kamu dengan AI hal tersebut bisa saja ditemukan dalam hitungan hari.
+Tertarikkah kamu untuk belajar membuat kecerdasan buatan sendiri? Kamu bisa belajar melalui akademi Dicoding Machine Learning Developer. Disana kamu akan belajar tentang sub bidang dari AI yaitu machine learning atau pembelajaran mesin untuk mengoptimasi suatu proses.
+Jadi bagaimana pendapatmu? Akankah AI memberikan dampak buruk bagi manusia atau malah memberikan dampak positif yang akan merubah peradaban manusia menjadi lebih baik lagi. Tulis jawabanmu di kolom komentar.
+Persiapkan karier teknologimu melalui Program Bangkit 2023.
+Dapatkan pelatihan teknologi, softskill, dan bahasa Inggris sehingga kamu akan lebih siap berkarier di perusahaan maupun startup.
+Pilih satu dari 3 alur belajar: Machine Learning, Mobile Development (Android), atau Cloud Computing.
+Lalu, raih manfaat berikut ini.
+Sertifikasi Global (Google Associate Android Developer & Associate Cloud Engineer, dan Tensorflow Developer
+Kurikulum & Instruktur Industri Expert (Pilihan 3 alur belajar: Machine Learning, Mobile Development (Android), dan Cloud Computing
+Keterampilan untuk siap karier (Teknologi, Softskill, dan bahasa Inggris)
+Konversi SKS s.d. 20 SKS (Terafiliasi Kampus Merdeka – SIB)
+Melalui Career Fair, raih karier sukses di bidang IT.
+Raih Dana senilai Rp 140 juta dan mentor industri untuk membangun startup impian.
+Yuk, dapatkan seluruh manfaat di atas secara GRATIS! Daftar sekarang di registration.bangkit.academy
+Mau tahu lebih mengenai dunia pemrograman, yuk simak juga artikel menariknya lainnya dari blog Dicoding berikut.
+5 Style Guide Ketika Belajar Bahasa Pemrograman Python
+Kenapa Flutter Layak Kamu Pelajari: 3 Alasan
+Apa itu Rate Limit pada Github API?
+Apa Itu Kecerdasan Buatan? Berikut Pengertian dan Contohnya – karya Robby Takdirillah, Intern Junior Content Writer di Dicoding 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belajar Pemrograman Gratis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Belajar pemrograman di Dicoding Academy dan mulai perjalanan Anda sebagai
+		developer profesional.
+	
+
+Coba Sekarang
+
+
+
+
+
+
+
+
+
+Rekomendasi
+
+
+
+
+
+
+
+
+
+Google, GoTo, dan Traveloka
+Bangkit Academy 2023
+Program kesiapan karier yang memberikan pelatihan intensif di bidang teknologi, softskills, dan bahasa Inggris.
+
+									Selengkapnya
+									
+
+
+
+
+
+
+
+
+
+Memulai Pemrograman Dengan Java
+
+
+
+
+
+
+							15 Jam belajar
+						
+
+
+
+
+							4,87						
+
+
+
+
+
+
+
+							Level Dasar						
+
+
+
+
+
+Temukan kelas pemrograman sesuai minat belajar Anda
+
+
+
+
+
+
+
+
+ 
+
+
+Bantuan
+Hubungi Kami
+Aturan Pakai
+Kebijakan Privasi
+				© 2022 Dicoding.			
+
+
+
+
+
+
+
+Close this module
+Dibuka : Pendaftaran Bangkit 2023 Batch 2Program kesiapan karier eksklusif dari Google ini menawarkan pelatihan intensif di bidang teknologi, sofskill, dan bahasa Inggris.
+Raih peluang sertifikasi global gratis.
+Daftar SekarangTerima kasih, saya belum tertarik.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
